@@ -23,3 +23,6 @@ provides a significant improvement in predictive performance
 but also enhances the interpretability of the model, making it a
 valuable tool for clinicians in the early detection and diagnosis
 of lung cancer
+
+
+This project was done under the supervision of Dr. Sachin Kansal and with the help from Bajrangi Kumar and Dr. Jyotindra Naryan.
